@@ -1,7 +1,7 @@
 # 💫 description:
 <br>some useful script with c c++ python to restart or shutdown system in different os<br>
 # shutdonw_script_source code:
-some useful script with c c++ python to restart or shutdown system in different os
+#python :
 
 ```python
 import os 
@@ -20,6 +20,8 @@ if shutdown == "no" and restart == "no" :
 else :
     print("wrong choice please try again .")
 ```
+#c++:
+
 ```cpp
 #include <iostream>
 #include <string>
@@ -53,6 +55,8 @@ else{
     return 0;
 }
 ```
+#c:
+
 ```c
 #include <stio.h>
 #include <stdlib.h>
