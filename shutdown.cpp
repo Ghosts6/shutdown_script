@@ -9,11 +9,11 @@ int main(){
     jump:
 if(choice == 'r' || choice == 'R'){
     system("shutdown -r -t 0");
-    system("reboot");
+    system("sudo reboot");
     system("c:\windows\system32\shutdown /r ");
 }
 if(choice == 's' || choice == 'S'){
-    system("poweroff");
+    system("sudo poweroff");
     system("shutdown -P now");
     system("c:\windows\system32\shutdown /i ");
 }
