@@ -2,7 +2,7 @@
 
 #  💫Description:
 some useful script with c c++ python to restart or shutdown system in different os
-# ssshutdown_script_source code:
+# 📴shutdown_script:
 #python :
 
 ```python
