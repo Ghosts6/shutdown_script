@@ -1,6 +1,8 @@
-# 💫 description:
-<br>some useful script with c c++ python to restart or shutdown system in different os<br>
-# shutdown_script_source code:
+![baner](https://github.com/Ghosts6/Local-website/blob/main/img/Baner.png)
+
+#  💫Description:
+some useful script with c c++ python to restart or shutdown system in different os
+# ssshutdown_script_source code:
 #python :
 
 ```python
